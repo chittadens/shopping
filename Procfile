@@ -1,0 +1,1 @@
+web: gunicorn chittattu.wsgi --log-file -

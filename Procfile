@@ -1,1 +1,1 @@
-web: gunicorn chittattu.wsgi --log-file -
+web: gunicorn shoppingprojec.wsgi --log-file -
